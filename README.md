@@ -7,6 +7,15 @@ At its core, it is still real Solitaire: build descending alternating-color tabl
 But Solatro adds another question:
 > **Can you win cleanly enough to make the numbers explode?**
 
+## Setup Instructions (For End Users)
+
+- Download and install to the main directory (usually `ux0:`) and choose install, once installed you can delete the Solatro.vpk file to prevent clutter:
+
+```
+ux0:Solatro.vpk
+```
+No additional Data Files are required.
+
 ---
 ## About
 Solatro takes classic (Klondike) Solitaire and layers a scoring system over every meaningful decision.
